@@ -1,4 +1,5 @@
 # Repositorio del Máster de UAH
+<<<<<<< HEAD
 Repositorio del Máster de UAH
 ==============================
 
@@ -23,3 +24,5 @@ Repositorio del Máster de UAH
 |----------| ---------|----------|
 | 10       | gimnasio | cafe     |
 | 11       | cafe     | gimnasio |
+=======
+>>>>>>> 79ad1eec6354ac3d364ab01256083dc02e4ae944
