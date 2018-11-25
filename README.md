@@ -1,5 +1,5 @@
 # Repositorio del Máster de UAH
-<<<<<<< HEAD
+
 Repositorio del Máster de UAH
 ==============================
 
